@@ -18,7 +18,7 @@ Happy coding!
 The Cloud9 IDE team
 
 # Expo6
-## Aqui tenemos el proyecto creado hace dos meses aproximadamente durante la exposicion numero 6 con el tema de rail jobs
+## Aqui tenemos el proyecto creado hace un mes aproximadamente durante la exposicion numero 6 con el tema de rail jobs
 
 ![Screenshot](expo6.png)
 

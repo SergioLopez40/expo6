@@ -16,3 +16,12 @@ http://www.youtube.com/user/c9ide.
 
 Happy coding!
 The Cloud9 IDE team
+
+# Expo6
+## Aqui tenemos el proyecto creado hace dos meses aproximadamente durante la exposicion numero 6 con el tema de rail jobs
+
+![Screenshot](expo6.png)
+
+
+Carpeta ejercicio expo
+![Screenshot](expo6_1.png)
